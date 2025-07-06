@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-	<a href="https://www.linkedin.com/in/ryan_sim" target="_blank">
+	<a href="https://www.linkedin.com/in/ryansimjy/" target="_blank">
   	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
 	<a href="mailto:ryansimjy@gmail.com" target="_blank">
   	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo"  />
